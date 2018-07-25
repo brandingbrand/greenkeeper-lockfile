@@ -1,7 +1,7 @@
 {
-  "name": "greenkeeper-lockfile",
+  "name": "@brandingbrand/greenkeeper-lockfile",
   "description": "Your lockfile, up to date, all the time",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "author": "Stephan Bönnemann <stephan@boennemann.me> (http://boennemann.me)",
   "bin": {
     "greenkeeper-lockfile-update": "update.js",
